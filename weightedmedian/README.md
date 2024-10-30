@@ -58,7 +58,7 @@ before the computation proceeds. Default is FALSE.
 The function returns a single numeric value representing the weighted
 median.
 
-\##Examples
+## Examples
 
 Here are some more examples of using the weighted_median function:
 
@@ -76,7 +76,7 @@ weighted_median(c(1, 2, NA, 4, 5, NA), na.rm = TRUE)
 #> [1] 3
 ```
 
-\##Contributing
+## Contributing
 
 Contributions to improve weightedmedian are welcome. Please submit pull
 requests or open issues on the GitHub repository.

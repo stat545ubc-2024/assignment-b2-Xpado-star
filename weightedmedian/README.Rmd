@@ -59,7 +59,7 @@ na.rm: A logical value indicating whether NA values should be stripped before th
 
 The function returns a single numeric value representing the weighted median.
 
-##Examples
+## Examples
 
 Here are some more examples of using the weighted_median function:
 
@@ -75,6 +75,6 @@ weighted_median(c(1, 2, NA, 4, 5, NA), na.rm = TRUE)
 ```
 
 
-##Contributing
+## Contributing
 
 Contributions to improve weightedmedian are welcome. Please submit pull requests or open issues on the GitHub repository.
