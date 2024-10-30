@@ -29,6 +29,8 @@ function:
 ``` r
 library(weightedmedian)
 
+# weighted_median <- function(x, weights = NULL, na.rm = FALSE)
+
 # Basic usage
 weighted_median(c(1, 2, 3, 4, 5))
 #> [1] 3

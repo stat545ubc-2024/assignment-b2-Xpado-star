@@ -36,6 +36,8 @@ This is a basic example which shows you how to use the weighted_median function:
 ```{r example}
 library(weightedmedian)
 
+# weighted_median <- function(x, weights = NULL, na.rm = FALSE)
+
 # Basic usage
 weighted_median(c(1, 2, 3, 4, 5))
 
